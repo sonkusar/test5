@@ -11,7 +11,7 @@ public class Test5Application {
                 int x=100;
 		int y=200;
 
-		
+		boolean isPresent=false;
 		SpringApplication.run(Test5Application.class, args);
 	}
 
